@@ -24,4 +24,7 @@
 
 /* Posititoning Classes */
 
-col-1
+.row {
+  clear:both; 
+  margin-bottom: 2%; 
+}
